@@ -1,9 +1,15 @@
 def test1():
-	print("test 1 passed cause we so cool")
+	msg = "running test1... "
+	# do something
+	msg += "passed"
+	print msg
 	return True
 
 def test2():
-	print("naaaah")
+	msg = "running test2... "
+	# do something
+	msg += "failed"
+	print msg
 	return False
 
 
