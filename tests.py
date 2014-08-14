@@ -4,7 +4,7 @@ def test1():
 
 def test2():
 	#our other awesome test
-	return True
+	return False
 
 
 if __name__ == "__main__":
