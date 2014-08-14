@@ -1,9 +1,9 @@
 def test1():
-	#our awesome test
+	print("test 1 passed cause we so cool")
 	return True
 
 def test2():
-	#our other awesome test
+	print("naaaah")
 	return False
 
 
